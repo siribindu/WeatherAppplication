@@ -1,0 +1,4 @@
+Deploy the war file into the server and restart the server.
+
+Please launch the url "http://localhost:8080/pactera/CityWeather" 
+and select the state for the weather information to be displayed for that state.
